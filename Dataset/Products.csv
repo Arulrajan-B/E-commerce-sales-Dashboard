@@ -1,0 +1,501 @@
+Product ID,Category,Sub Category,Product Name,Unit Price
+PROD-0001,Furniture,Storage,Storage Prime 814,34478.85
+PROD-0002,Electronics,Accessories,Accessorie Classic 691,28576.03
+PROD-0003,Sports,Fitness Equipment,Fitness Equipment Elite 618,3694.38
+PROD-0004,Home & Kitchen,Decor,Decor Classic 370,3137.9
+PROD-0005,Clothing,Kids,Kid Smart 906,1154.63
+PROD-0006,Furniture,Chairs,Chair Max 223,14924.71
+PROD-0007,Clothing,Footwear,Footwear Elite 716,1599.38
+PROD-0008,Electronics,Headphones,Headphone Max 315,56596.94
+PROD-0009,Clothing,Kids,Kid Plus 260,4556.61
+PROD-0010,Furniture,Storage,Storage Classic 114,23285.72
+PROD-0011,Furniture,Storage,Storage Plus 220,21472.63
+PROD-0012,Furniture,Bookcases,Bookcase Lite 797,44152.37
+PROD-0013,Furniture,Tables,Table Ultra 340,12198.85
+PROD-0014,Furniture,Chairs,Chair Plus 682,16505.26
+PROD-0015,Sports,Outdoor Gear,Outdoor Gear Eco 542,6720.15
+PROD-0016,Office Supplies,Binders,Binder Smart 106,1497.95
+PROD-0017,Furniture,Bookcases,Bookcase Pro 112,19609.88
+PROD-0018,Clothing,Kids,Kid Classic 837,2759.05
+PROD-0019,Clothing,Women,Women Eco 399,495.84
+PROD-0020,Sports,Team Sports,Team Sport Lite 631,7767.14
+PROD-0021,Clothing,Kids,Kid Smart 551,3817.94
+PROD-0022,Home & Kitchen,Appliances,Appliance Prime 123,11539.06
+PROD-0023,Furniture,Bookcases,Bookcase Smart 574,32908.95
+PROD-0024,Office Supplies,Paper,Paper Smart 161,1133.21
+PROD-0025,Home & Kitchen,Appliances,Appliance Lite 528,2325.36
+PROD-0026,Furniture,Chairs,Chair Elite 571,17549.47
+PROD-0027,Electronics,Mobiles,Mobile Max 478,19020.02
+PROD-0028,Furniture,Storage,Storage Pro 894,10618.2
+PROD-0029,Clothing,Men,Men Ultra 554,2540.96
+PROD-0030,Clothing,Footwear,Footwear Smart 621,3573.99
+PROD-0031,Office Supplies,Binders,Binder Prime 191,747.29
+PROD-0032,Office Supplies,Storage & Organization,Storage & Organization Pro 637,141.52
+PROD-0033,Sports,Outdoor Gear,Outdoor Gear Plus 618,3930.93
+PROD-0034,Home & Kitchen,Cookware,Cookware Lite 821,2420.52
+PROD-0035,Furniture,Storage,Storage Classic 563,31331.46
+PROD-0036,Clothing,Women,Women Prime 911,3870.43
+PROD-0037,Clothing,Kids,Kid Classic 216,1045.1
+PROD-0038,Clothing,Footwear,Footwear Lite 273,1020.0
+PROD-0039,Home & Kitchen,Appliances,Appliance Ultra 890,6236.14
+PROD-0040,Clothing,Kids,Kid Lite 702,2959.15
+PROD-0041,Sports,Outdoor Gear,Outdoor Gear Max 314,10500.79
+PROD-0042,Office Supplies,Paper,Paper Smart 794,2653.04
+PROD-0043,Office Supplies,Paper,Paper Elite 683,1798.23
+PROD-0044,Sports,Fitness Equipment,Fitness Equipment Eco 713,5480.96
+PROD-0045,Electronics,Mobiles,Mobile Elite 773,76628.6
+PROD-0046,Furniture,Tables,Table Eco 244,4292.42
+PROD-0047,Furniture,Storage,Storage Pro 413,31597.92
+PROD-0048,Office Supplies,Pens,Pen Prime 914,2406.36
+PROD-0049,Electronics,Laptops,Laptop Elite 766,18372.6
+PROD-0050,Electronics,Headphones,Headphone Elite 712,30975.36
+PROD-0051,Sports,Outdoor Gear,Outdoor Gear Lite 423,12643.01
+PROD-0052,Sports,Team Sports,Team Sport Elite 728,6211.63
+PROD-0053,Furniture,Tables,Table Classic 272,25163.7
+PROD-0054,Home & Kitchen,Cookware,Cookware Smart 626,11443.5
+PROD-0055,Home & Kitchen,Furnishing,Furnishing Pro 637,1215.13
+PROD-0056,Electronics,Cameras,Camera Max 389,54231.78
+PROD-0057,Furniture,Tables,Table Elite 126,11908.52
+PROD-0058,Office Supplies,Paper,Paper Smart 765,1034.4
+PROD-0059,Home & Kitchen,Decor,Decor Ultra 900,11594.12
+PROD-0060,Furniture,Storage,Storage Lite 898,6146.31
+PROD-0061,Furniture,Tables,Table Elite 979,35814.4
+PROD-0062,Sports,Outdoor Gear,Outdoor Gear Prime 974,8508.55
+PROD-0063,Home & Kitchen,Appliances,Appliance Max 832,8892.63
+PROD-0064,Sports,Team Sports,Team Sport Pro 920,6297.26
+PROD-0065,Home & Kitchen,Decor,Decor Plus 147,11612.86
+PROD-0066,Office Supplies,Storage & Organization,Storage & Organization Classic 889,1158.61
+PROD-0067,Sports,Outdoor Gear,Outdoor Gear Lite 220,11239.88
+PROD-0068,Home & Kitchen,Cookware,Cookware Max 930,7979.02
+PROD-0069,Sports,Outdoor Gear,Outdoor Gear Ultra 573,3572.79
+PROD-0070,Electronics,Laptops,Laptop Max 225,15614.79
+PROD-0071,Office Supplies,Pens,Pen Eco 808,1350.26
+PROD-0072,Office Supplies,Paper,Paper Plus 158,436.88
+PROD-0073,Furniture,Chairs,Chair Lite 173,22632.27
+PROD-0074,Electronics,Cameras,Camera Pro 415,17229.44
+PROD-0075,Furniture,Tables,Table Prime 976,14984.49
+PROD-0076,Home & Kitchen,Cookware,Cookware Max 645,4898.49
+PROD-0077,Furniture,Chairs,Chair Elite 323,2264.61
+PROD-0078,Clothing,Men,Men Elite 452,912.35
+PROD-0079,Office Supplies,Binders,Binder Elite 191,1682.04
+PROD-0080,Home & Kitchen,Cookware,Cookware Pro 688,5293.04
+PROD-0081,Electronics,Mobiles,Mobile Pro 945,7645.81
+PROD-0082,Home & Kitchen,Appliances,Appliance Classic 165,3537.44
+PROD-0083,Sports,Fitness Equipment,Fitness Equipment Lite 299,11001.41
+PROD-0084,Electronics,Mobiles,Mobile Plus 778,41217.27
+PROD-0085,Electronics,Laptops,Laptop Pro 970,51563.14
+PROD-0086,Home & Kitchen,Cookware,Cookware Eco 419,272.3
+PROD-0087,Clothing,Footwear,Footwear Eco 496,687.12
+PROD-0088,Sports,Fitness Equipment,Fitness Equipment Elite 136,18732.72
+PROD-0089,Office Supplies,Binders,Binder Prime 260,157.16
+PROD-0090,Sports,Outdoor Gear,Outdoor Gear Classic 149,14013.33
+PROD-0091,Home & Kitchen,Cookware,Cookware Elite 853,12668.8
+PROD-0092,Furniture,Bookcases,Bookcase Plus 346,43273.89
+PROD-0093,Clothing,Men,Men Max 511,3638.21
+PROD-0094,Office Supplies,Binders,Binder Classic 169,155.22
+PROD-0095,Home & Kitchen,Decor,Decor Elite 222,7383.17
+PROD-0096,Electronics,Headphones,Headphone Max 929,66036.2
+PROD-0097,Clothing,Men,Men Plus 326,3390.37
+PROD-0098,Electronics,Accessories,Accessorie Elite 553,19466.78
+PROD-0099,Home & Kitchen,Appliances,Appliance Ultra 100,7270.83
+PROD-0100,Electronics,Laptops,Laptop Classic 680,57411.31
+PROD-0101,Office Supplies,Storage & Organization,Storage & Organization Classic 344,747.68
+PROD-0102,Electronics,Laptops,Laptop Elite 330,59992.79
+PROD-0103,Home & Kitchen,Decor,Decor Prime 384,3169.07
+PROD-0104,Home & Kitchen,Cookware,Cookware Eco 427,13129.17
+PROD-0105,Electronics,Mobiles,Mobile Pro 914,50406.93
+PROD-0106,Electronics,Cameras,Camera Lite 798,34881.66
+PROD-0107,Clothing,Men,Men Max 830,1757.38
+PROD-0108,Home & Kitchen,Appliances,Appliance Max 374,5991.66
+PROD-0109,Electronics,Mobiles,Mobile Plus 691,24127.18
+PROD-0110,Sports,Outdoor Gear,Outdoor Gear Classic 623,14417.22
+PROD-0111,Sports,Team Sports,Team Sport Ultra 497,17248.86
+PROD-0112,Clothing,Women,Women Pro 200,2659.42
+PROD-0113,Sports,Team Sports,Team Sport Pro 243,4508.1
+PROD-0114,Electronics,Mobiles,Mobile Elite 456,10806.71
+PROD-0115,Home & Kitchen,Cookware,Cookware Elite 861,434.18
+PROD-0116,Home & Kitchen,Cookware,Cookware Prime 884,5366.08
+PROD-0117,Office Supplies,Pens,Pen Max 860,1756.19
+PROD-0118,Furniture,Storage,Storage Prime 584,28969.1
+PROD-0119,Electronics,Headphones,Headphone Elite 196,79857.65
+PROD-0120,Sports,Fitness Equipment,Fitness Equipment Lite 789,12856.25
+PROD-0121,Home & Kitchen,Decor,Decor Plus 850,9140.61
+PROD-0122,Office Supplies,Pens,Pen Elite 650,2645.29
+PROD-0123,Sports,Team Sports,Team Sport Prime 903,19149.24
+PROD-0124,Electronics,Laptops,Laptop Pro 363,76310.51
+PROD-0125,Home & Kitchen,Furnishing,Furnishing Max 130,12460.39
+PROD-0126,Office Supplies,Pens,Pen Plus 391,1489.26
+PROD-0127,Clothing,Men,Men Ultra 398,3990.42
+PROD-0128,Sports,Team Sports,Team Sport Prime 217,13818.69
+PROD-0129,Home & Kitchen,Furnishing,Furnishing Ultra 445,3424.67
+PROD-0130,Clothing,Kids,Kid Eco 477,1969.11
+PROD-0131,Home & Kitchen,Cookware,Cookware Pro 248,9496.32
+PROD-0132,Electronics,Cameras,Camera Eco 458,28493.4
+PROD-0133,Furniture,Bookcases,Bookcase Elite 360,7123.13
+PROD-0134,Office Supplies,Binders,Binder Eco 360,649.23
+PROD-0135,Sports,Fitness Equipment,Fitness Equipment Pro 902,12320.94
+PROD-0136,Home & Kitchen,Appliances,Appliance Ultra 431,1038.96
+PROD-0137,Home & Kitchen,Cookware,Cookware Ultra 826,6572.97
+PROD-0138,Clothing,Footwear,Footwear Pro 254,4229.38
+PROD-0139,Office Supplies,Paper,Paper Prime 402,381.42
+PROD-0140,Electronics,Cameras,Camera Pro 271,16851.26
+PROD-0141,Furniture,Bookcases,Bookcase Classic 307,30140.5
+PROD-0142,Electronics,Laptops,Laptop Ultra 860,9757.61
+PROD-0143,Office Supplies,Binders,Binder Lite 659,133.09
+PROD-0144,Home & Kitchen,Decor,Decor Ultra 170,7478.44
+PROD-0145,Clothing,Men,Men Max 497,1462.42
+PROD-0146,Office Supplies,Paper,Paper Classic 889,1670.63
+PROD-0147,Home & Kitchen,Appliances,Appliance Smart 216,6795.05
+PROD-0148,Home & Kitchen,Appliances,Appliance Plus 873,12747.79
+PROD-0149,Sports,Outdoor Gear,Outdoor Gear Eco 745,18104.96
+PROD-0150,Electronics,Accessories,Accessorie Lite 920,53276.28
+PROD-0151,Sports,Team Sports,Team Sport Classic 544,19058.8
+PROD-0152,Furniture,Chairs,Chair Elite 391,18127.11
+PROD-0153,Sports,Outdoor Gear,Outdoor Gear Prime 485,5416.36
+PROD-0154,Home & Kitchen,Decor,Decor Elite 273,5097.23
+PROD-0155,Electronics,Accessories,Accessorie Ultra 461,6630.23
+PROD-0156,Sports,Fitness Equipment,Fitness Equipment Ultra 353,15947.6
+PROD-0157,Home & Kitchen,Appliances,Appliance Classic 579,13265.25
+PROD-0158,Home & Kitchen,Appliances,Appliance Smart 542,1973.13
+PROD-0159,Furniture,Bookcases,Bookcase Classic 883,37671.56
+PROD-0160,Clothing,Women,Women Smart 792,4334.11
+PROD-0161,Clothing,Kids,Kid Lite 111,1456.74
+PROD-0162,Sports,Team Sports,Team Sport Smart 879,8365.3
+PROD-0163,Home & Kitchen,Cookware,Cookware Smart 880,14474.93
+PROD-0164,Home & Kitchen,Cookware,Cookware Classic 290,8045.23
+PROD-0165,Furniture,Chairs,Chair Classic 299,1861.94
+PROD-0166,Office Supplies,Storage & Organization,Storage & Organization Plus 115,2215.16
+PROD-0167,Home & Kitchen,Appliances,Appliance Pro 332,8517.78
+PROD-0168,Home & Kitchen,Decor,Decor Pro 207,11116.81
+PROD-0169,Sports,Outdoor Gear,Outdoor Gear Prime 910,8216.4
+PROD-0170,Furniture,Chairs,Chair Eco 985,29525.05
+PROD-0171,Sports,Fitness Equipment,Fitness Equipment Classic 113,16938.59
+PROD-0172,Electronics,Accessories,Accessorie Prime 135,54766.1
+PROD-0173,Office Supplies,Pens,Pen Ultra 456,2811.81
+PROD-0174,Clothing,Men,Men Elite 705,4735.39
+PROD-0175,Electronics,Headphones,Headphone Plus 622,41731.91
+PROD-0176,Office Supplies,Storage & Organization,Storage & Organization Plus 665,1948.37
+PROD-0177,Furniture,Chairs,Chair Classic 862,36283.15
+PROD-0178,Office Supplies,Storage & Organization,Storage & Organization Elite 722,977.67
+PROD-0179,Office Supplies,Binders,Binder Eco 486,581.17
+PROD-0180,Office Supplies,Binders,Binder Lite 833,1453.81
+PROD-0181,Furniture,Bookcases,Bookcase Plus 600,34314.82
+PROD-0182,Furniture,Chairs,Chair Eco 782,44487.22
+PROD-0183,Clothing,Footwear,Footwear Elite 883,1809.38
+PROD-0184,Electronics,Headphones,Headphone Max 801,22171.25
+PROD-0185,Furniture,Chairs,Chair Prime 506,23904.32
+PROD-0186,Furniture,Tables,Table Eco 898,23407.26
+PROD-0187,Office Supplies,Paper,Paper Elite 134,2801.19
+PROD-0188,Sports,Team Sports,Team Sport Max 697,2334.5
+PROD-0189,Electronics,Laptops,Laptop Ultra 290,78114.27
+PROD-0190,Office Supplies,Binders,Binder Prime 356,2200.21
+PROD-0191,Furniture,Storage,Storage Plus 646,3182.35
+PROD-0192,Furniture,Chairs,Chair Smart 369,9643.69
+PROD-0193,Electronics,Laptops,Laptop Classic 980,61145.9
+PROD-0194,Sports,Fitness Equipment,Fitness Equipment Elite 867,11362.29
+PROD-0195,Office Supplies,Paper,Paper Max 211,2234.32
+PROD-0196,Clothing,Footwear,Footwear Elite 274,418.31
+PROD-0197,Furniture,Bookcases,Bookcase Prime 651,22288.65
+PROD-0198,Furniture,Bookcases,Bookcase Ultra 223,13488.99
+PROD-0199,Clothing,Kids,Kid Elite 991,1735.0
+PROD-0200,Furniture,Chairs,Chair Max 897,18563.51
+PROD-0201,Home & Kitchen,Decor,Decor Eco 280,6186.97
+PROD-0202,Furniture,Storage,Storage Pro 114,25090.16
+PROD-0203,Sports,Team Sports,Team Sport Eco 374,4704.78
+PROD-0204,Furniture,Chairs,Chair Max 405,25158.94
+PROD-0205,Clothing,Footwear,Footwear Smart 853,4978.39
+PROD-0206,Electronics,Cameras,Camera Classic 543,2364.96
+PROD-0207,Home & Kitchen,Cookware,Cookware Ultra 170,7722.18
+PROD-0208,Home & Kitchen,Cookware,Cookware Lite 388,4408.13
+PROD-0209,Office Supplies,Binders,Binder Smart 639,2356.16
+PROD-0210,Office Supplies,Paper,Paper Prime 310,823.79
+PROD-0211,Office Supplies,Paper,Paper Smart 568,691.71
+PROD-0212,Office Supplies,Binders,Binder Max 368,1713.72
+PROD-0213,Sports,Fitness Equipment,Fitness Equipment Smart 187,4042.71
+PROD-0214,Furniture,Tables,Table Eco 855,10022.31
+PROD-0215,Sports,Fitness Equipment,Fitness Equipment Ultra 447,433.08
+PROD-0216,Furniture,Chairs,Chair Smart 906,33543.48
+PROD-0217,Clothing,Men,Men Max 511,1645.27
+PROD-0218,Office Supplies,Pens,Pen Eco 289,2189.8
+PROD-0219,Furniture,Storage,Storage Smart 929,5394.27
+PROD-0220,Furniture,Storage,Storage Lite 815,8267.79
+PROD-0221,Office Supplies,Paper,Paper Smart 176,1123.15
+PROD-0222,Furniture,Tables,Table Classic 804,23268.77
+PROD-0223,Furniture,Chairs,Chair Lite 190,9964.27
+PROD-0224,Office Supplies,Paper,Paper Elite 152,1972.41
+PROD-0225,Furniture,Bookcases,Bookcase Max 843,21941.97
+PROD-0226,Home & Kitchen,Furnishing,Furnishing Elite 113,2487.2
+PROD-0227,Office Supplies,Pens,Pen Eco 114,1442.63
+PROD-0228,Office Supplies,Pens,Pen Smart 621,259.32
+PROD-0229,Clothing,Men,Men Plus 701,713.96
+PROD-0230,Office Supplies,Paper,Paper Lite 643,1556.65
+PROD-0231,Furniture,Storage,Storage Eco 748,10897.05
+PROD-0232,Sports,Team Sports,Team Sport Classic 749,11476.29
+PROD-0233,Electronics,Accessories,Accessorie Lite 911,17769.52
+PROD-0234,Office Supplies,Paper,Paper Ultra 535,1737.91
+PROD-0235,Furniture,Bookcases,Bookcase Plus 947,35100.88
+PROD-0236,Home & Kitchen,Appliances,Appliance Plus 894,2780.15
+PROD-0237,Office Supplies,Binders,Binder Ultra 933,1559.45
+PROD-0238,Electronics,Mobiles,Mobile Classic 542,72279.67
+PROD-0239,Sports,Fitness Equipment,Fitness Equipment Plus 153,16406.69
+PROD-0240,Office Supplies,Storage & Organization,Storage & Organization Smart 130,240.33
+PROD-0241,Home & Kitchen,Decor,Decor Elite 603,753.62
+PROD-0242,Electronics,Headphones,Headphone Max 969,14811.8
+PROD-0243,Electronics,Headphones,Headphone Ultra 548,10809.61
+PROD-0244,Furniture,Chairs,Chair Smart 306,34368.92
+PROD-0245,Furniture,Bookcases,Bookcase Smart 557,14671.59
+PROD-0246,Clothing,Footwear,Footwear Lite 319,4136.51
+PROD-0247,Home & Kitchen,Furnishing,Furnishing Max 591,13914.69
+PROD-0248,Furniture,Storage,Storage Prime 517,2309.62
+PROD-0249,Office Supplies,Binders,Binder Eco 997,1967.97
+PROD-0250,Clothing,Men,Men Plus 517,2919.46
+PROD-0251,Home & Kitchen,Cookware,Cookware Elite 468,11634.55
+PROD-0252,Clothing,Men,Men Elite 707,2879.27
+PROD-0253,Sports,Fitness Equipment,Fitness Equipment Elite 514,18650.34
+PROD-0254,Furniture,Tables,Table Prime 859,37742.42
+PROD-0255,Clothing,Footwear,Footwear Max 981,2683.85
+PROD-0256,Clothing,Women,Women Classic 593,2428.57
+PROD-0257,Sports,Outdoor Gear,Outdoor Gear Smart 470,11388.31
+PROD-0258,Sports,Team Sports,Team Sport Ultra 447,10250.5
+PROD-0259,Office Supplies,Paper,Paper Smart 797,2790.02
+PROD-0260,Home & Kitchen,Appliances,Appliance Prime 398,4818.41
+PROD-0261,Home & Kitchen,Appliances,Appliance Plus 876,9368.13
+PROD-0262,Office Supplies,Paper,Paper Ultra 233,842.59
+PROD-0263,Clothing,Men,Men Lite 459,4213.24
+PROD-0264,Office Supplies,Storage & Organization,Storage & Organization Pro 259,405.6
+PROD-0265,Office Supplies,Binders,Binder Eco 440,2378.97
+PROD-0266,Home & Kitchen,Cookware,Cookware Elite 877,1804.71
+PROD-0267,Electronics,Laptops,Laptop Prime 838,37876.58
+PROD-0268,Furniture,Bookcases,Bookcase Pro 328,37730.74
+PROD-0269,Home & Kitchen,Cookware,Cookware Ultra 319,7464.53
+PROD-0270,Electronics,Laptops,Laptop Elite 725,80436.18
+PROD-0271,Home & Kitchen,Cookware,Cookware Smart 848,5754.78
+PROD-0272,Clothing,Men,Men Pro 636,2242.06
+PROD-0273,Electronics,Accessories,Accessorie Eco 573,82737.84
+PROD-0274,Electronics,Cameras,Camera Smart 311,56781.13
+PROD-0275,Furniture,Chairs,Chair Plus 230,28464.71
+PROD-0276,Electronics,Laptops,Laptop Prime 913,33992.07
+PROD-0277,Clothing,Women,Women Classic 143,610.01
+PROD-0278,Office Supplies,Pens,Pen Prime 473,1126.42
+PROD-0279,Office Supplies,Pens,Pen Smart 487,675.96
+PROD-0280,Furniture,Chairs,Chair Pro 801,40908.53
+PROD-0281,Office Supplies,Paper,Paper Classic 503,224.99
+PROD-0282,Clothing,Kids,Kid Prime 315,2759.84
+PROD-0283,Sports,Outdoor Gear,Outdoor Gear Max 152,11573.21
+PROD-0284,Electronics,Mobiles,Mobile Elite 488,74782.25
+PROD-0285,Office Supplies,Paper,Paper Classic 298,2951.1
+PROD-0286,Office Supplies,Storage & Organization,Storage & Organization Elite 121,2423.29
+PROD-0287,Furniture,Bookcases,Bookcase Ultra 810,17604.21
+PROD-0288,Home & Kitchen,Furnishing,Furnishing Eco 193,7751.93
+PROD-0289,Clothing,Women,Women Plus 877,3545.23
+PROD-0290,Office Supplies,Storage & Organization,Storage & Organization Classic 569,1030.58
+PROD-0291,Clothing,Kids,Kid Elite 904,378.5
+PROD-0292,Home & Kitchen,Appliances,Appliance Ultra 893,14992.9
+PROD-0293,Office Supplies,Paper,Paper Classic 299,744.63
+PROD-0294,Home & Kitchen,Appliances,Appliance Ultra 722,10625.56
+PROD-0295,Office Supplies,Storage & Organization,Storage & Organization Elite 843,198.03
+PROD-0296,Sports,Team Sports,Team Sport Max 626,9485.18
+PROD-0297,Clothing,Men,Men Ultra 210,1658.89
+PROD-0298,Electronics,Laptops,Laptop Elite 328,84484.43
+PROD-0299,Home & Kitchen,Furnishing,Furnishing Ultra 441,1758.41
+PROD-0300,Sports,Outdoor Gear,Outdoor Gear Max 677,17632.75
+PROD-0301,Office Supplies,Paper,Paper Lite 261,1982.12
+PROD-0302,Home & Kitchen,Appliances,Appliance Pro 715,9769.15
+PROD-0303,Clothing,Kids,Kid Plus 171,3526.58
+PROD-0304,Electronics,Laptops,Laptop Ultra 970,64598.61
+PROD-0305,Clothing,Footwear,Footwear Eco 725,3103.87
+PROD-0306,Electronics,Cameras,Camera Lite 450,36995.16
+PROD-0307,Home & Kitchen,Furnishing,Furnishing Lite 355,1049.54
+PROD-0308,Sports,Fitness Equipment,Fitness Equipment Elite 456,9100.88
+PROD-0309,Home & Kitchen,Appliances,Appliance Prime 814,1290.78
+PROD-0310,Sports,Outdoor Gear,Outdoor Gear Max 906,1336.34
+PROD-0311,Electronics,Laptops,Laptop Elite 597,41805.71
+PROD-0312,Office Supplies,Storage & Organization,Storage & Organization Eco 469,2423.4
+PROD-0313,Sports,Team Sports,Team Sport Plus 861,2833.81
+PROD-0314,Furniture,Bookcases,Bookcase Eco 492,22199.47
+PROD-0315,Office Supplies,Paper,Paper Eco 531,1441.38
+PROD-0316,Clothing,Footwear,Footwear Eco 221,4102.57
+PROD-0317,Electronics,Accessories,Accessorie Ultra 442,24861.53
+PROD-0318,Electronics,Laptops,Laptop Smart 821,56775.29
+PROD-0319,Sports,Outdoor Gear,Outdoor Gear Ultra 308,11328.41
+PROD-0320,Sports,Team Sports,Team Sport Lite 486,16856.96
+PROD-0321,Office Supplies,Storage & Organization,Storage & Organization Eco 385,2870.08
+PROD-0322,Furniture,Storage,Storage Elite 598,13005.68
+PROD-0323,Home & Kitchen,Furnishing,Furnishing Smart 718,14854.48
+PROD-0324,Office Supplies,Paper,Paper Smart 884,1462.84
+PROD-0325,Office Supplies,Binders,Binder Eco 180,2961.36
+PROD-0326,Clothing,Men,Men Smart 809,1424.94
+PROD-0327,Home & Kitchen,Cookware,Cookware Eco 392,9226.59
+PROD-0328,Sports,Outdoor Gear,Outdoor Gear Ultra 366,9489.36
+PROD-0329,Furniture,Storage,Storage Pro 563,7231.58
+PROD-0330,Clothing,Kids,Kid Classic 843,1007.64
+PROD-0331,Home & Kitchen,Furnishing,Furnishing Max 162,9103.23
+PROD-0332,Clothing,Footwear,Footwear Lite 662,2533.69
+PROD-0333,Electronics,Cameras,Camera Classic 192,78679.43
+PROD-0334,Furniture,Chairs,Chair Ultra 490,36145.69
+PROD-0335,Furniture,Storage,Storage Smart 272,44193.28
+PROD-0336,Electronics,Laptops,Laptop Classic 523,47802.71
+PROD-0337,Home & Kitchen,Cookware,Cookware Pro 673,9852.18
+PROD-0338,Clothing,Footwear,Footwear Prime 570,301.99
+PROD-0339,Sports,Outdoor Gear,Outdoor Gear Classic 130,2394.35
+PROD-0340,Home & Kitchen,Appliances,Appliance Eco 742,2765.47
+PROD-0341,Clothing,Footwear,Footwear Prime 957,3176.2
+PROD-0342,Office Supplies,Pens,Pen Elite 934,772.24
+PROD-0343,Office Supplies,Storage & Organization,Storage & Organization Max 631,1239.6
+PROD-0344,Office Supplies,Storage & Organization,Storage & Organization Prime 852,2307.44
+PROD-0345,Home & Kitchen,Furnishing,Furnishing Max 513,13550.14
+PROD-0346,Furniture,Storage,Storage Plus 910,24595.35
+PROD-0347,Furniture,Chairs,Chair Plus 245,33796.95
+PROD-0348,Office Supplies,Binders,Binder Ultra 801,2466.83
+PROD-0349,Home & Kitchen,Furnishing,Furnishing Ultra 127,9228.62
+PROD-0350,Office Supplies,Storage & Organization,Storage & Organization Classic 928,2483.92
+PROD-0351,Home & Kitchen,Furnishing,Furnishing Prime 131,11710.43
+PROD-0352,Furniture,Storage,Storage Ultra 375,43413.69
+PROD-0353,Furniture,Bookcases,Bookcase Eco 765,15938.03
+PROD-0354,Electronics,Laptops,Laptop Max 768,42659.36
+PROD-0355,Furniture,Chairs,Chair Smart 767,2575.51
+PROD-0356,Electronics,Laptops,Laptop Smart 730,23583.65
+PROD-0357,Clothing,Women,Women Smart 109,4610.48
+PROD-0358,Sports,Team Sports,Team Sport Lite 942,669.95
+PROD-0359,Furniture,Storage,Storage Classic 126,13850.99
+PROD-0360,Clothing,Footwear,Footwear Smart 536,3209.26
+PROD-0361,Home & Kitchen,Cookware,Cookware Pro 181,9096.42
+PROD-0362,Furniture,Tables,Table Max 904,40888.55
+PROD-0363,Furniture,Bookcases,Bookcase Pro 378,40284.57
+PROD-0364,Electronics,Headphones,Headphone Prime 434,46991.59
+PROD-0365,Clothing,Women,Women Prime 533,2731.17
+PROD-0366,Electronics,Laptops,Laptop Prime 559,73554.26
+PROD-0367,Sports,Team Sports,Team Sport Plus 923,5057.72
+PROD-0368,Furniture,Bookcases,Bookcase Elite 961,28161.18
+PROD-0369,Furniture,Chairs,Chair Max 664,12927.49
+PROD-0370,Clothing,Footwear,Footwear Elite 487,694.68
+PROD-0371,Sports,Team Sports,Team Sport Lite 689,16872.28
+PROD-0372,Sports,Outdoor Gear,Outdoor Gear Pro 848,8464.04
+PROD-0373,Electronics,Mobiles,Mobile Plus 179,48815.18
+PROD-0374,Electronics,Cameras,Camera Plus 784,17482.96
+PROD-0375,Office Supplies,Pens,Pen Lite 317,804.11
+PROD-0376,Office Supplies,Pens,Pen Classic 388,1316.99
+PROD-0377,Electronics,Laptops,Laptop Pro 325,68834.67
+PROD-0378,Home & Kitchen,Decor,Decor Elite 565,10196.18
+PROD-0379,Office Supplies,Pens,Pen Ultra 791,202.81
+PROD-0380,Home & Kitchen,Appliances,Appliance Smart 716,1894.95
+PROD-0381,Clothing,Women,Women Classic 317,1896.36
+PROD-0382,Sports,Outdoor Gear,Outdoor Gear Lite 451,12702.93
+PROD-0383,Office Supplies,Binders,Binder Smart 784,2597.32
+PROD-0384,Sports,Team Sports,Team Sport Pro 608,13963.21
+PROD-0385,Home & Kitchen,Cookware,Cookware Plus 900,14368.8
+PROD-0386,Home & Kitchen,Decor,Decor Prime 914,5129.77
+PROD-0387,Electronics,Laptops,Laptop Ultra 893,5338.02
+PROD-0388,Sports,Outdoor Gear,Outdoor Gear Eco 190,10208.92
+PROD-0389,Sports,Outdoor Gear,Outdoor Gear Pro 483,14066.41
+PROD-0390,Home & Kitchen,Appliances,Appliance Ultra 153,11421.54
+PROD-0391,Sports,Outdoor Gear,Outdoor Gear Ultra 527,14334.61
+PROD-0392,Electronics,Laptops,Laptop Pro 511,56088.76
+PROD-0393,Sports,Team Sports,Team Sport Elite 211,2185.51
+PROD-0394,Sports,Outdoor Gear,Outdoor Gear Eco 565,4604.94
+PROD-0395,Office Supplies,Binders,Binder Classic 344,2382.49
+PROD-0396,Furniture,Chairs,Chair Classic 647,13151.78
+PROD-0397,Clothing,Women,Women Eco 901,1476.22
+PROD-0398,Furniture,Chairs,Chair Classic 360,30666.95
+PROD-0399,Electronics,Accessories,Accessorie Lite 898,82124.78
+PROD-0400,Furniture,Chairs,Chair Eco 463,42113.06
+PROD-0401,Electronics,Cameras,Camera Smart 608,22999.87
+PROD-0402,Clothing,Women,Women Eco 127,4290.92
+PROD-0403,Furniture,Bookcases,Bookcase Plus 290,33875.2
+PROD-0404,Furniture,Storage,Storage Lite 125,40339.96
+PROD-0405,Sports,Outdoor Gear,Outdoor Gear Classic 823,7119.98
+PROD-0406,Sports,Outdoor Gear,Outdoor Gear Lite 617,6240.21
+PROD-0407,Office Supplies,Pens,Pen Elite 915,1068.05
+PROD-0408,Office Supplies,Binders,Binder Plus 708,766.7
+PROD-0409,Home & Kitchen,Decor,Decor Plus 173,636.37
+PROD-0410,Sports,Outdoor Gear,Outdoor Gear Max 652,10240.31
+PROD-0411,Clothing,Footwear,Footwear Smart 550,2794.55
+PROD-0412,Furniture,Chairs,Chair Eco 448,22324.6
+PROD-0413,Sports,Team Sports,Team Sport Plus 718,9080.25
+PROD-0414,Furniture,Chairs,Chair Max 674,27589.95
+PROD-0415,Office Supplies,Pens,Pen Eco 977,2312.28
+PROD-0416,Home & Kitchen,Decor,Decor Elite 874,11943.35
+PROD-0417,Sports,Team Sports,Team Sport Pro 952,9182.48
+PROD-0418,Clothing,Kids,Kid Elite 261,3445.78
+PROD-0419,Sports,Team Sports,Team Sport Elite 755,9514.83
+PROD-0420,Furniture,Tables,Table Prime 201,42341.07
+PROD-0421,Sports,Team Sports,Team Sport Prime 465,10552.02
+PROD-0422,Clothing,Men,Men Eco 665,4392.22
+PROD-0423,Sports,Fitness Equipment,Fitness Equipment Pro 597,7025.61
+PROD-0424,Sports,Fitness Equipment,Fitness Equipment Pro 358,8187.66
+PROD-0425,Home & Kitchen,Cookware,Cookware Prime 394,3280.73
+PROD-0426,Electronics,Cameras,Camera Ultra 645,23748.52
+PROD-0427,Office Supplies,Binders,Binder Eco 271,172.23
+PROD-0428,Clothing,Kids,Kid Ultra 113,3505.72
+PROD-0429,Furniture,Chairs,Chair Eco 595,4734.95
+PROD-0430,Home & Kitchen,Cookware,Cookware Max 169,2876.94
+PROD-0431,Furniture,Storage,Storage Prime 284,27936.57
+PROD-0432,Sports,Fitness Equipment,Fitness Equipment Elite 733,16167.71
+PROD-0433,Clothing,Women,Women Elite 184,4900.35
+PROD-0434,Office Supplies,Storage & Organization,Storage & Organization Elite 381,1476.08
+PROD-0435,Electronics,Cameras,Camera Eco 325,32171.25
+PROD-0436,Office Supplies,Pens,Pen Elite 475,448.78
+PROD-0437,Sports,Team Sports,Team Sport Pro 656,5184.91
+PROD-0438,Sports,Fitness Equipment,Fitness Equipment Pro 767,401.76
+PROD-0439,Sports,Outdoor Gear,Outdoor Gear Max 750,17356.12
+PROD-0440,Furniture,Tables,Table Max 438,8135.2
+PROD-0441,Home & Kitchen,Cookware,Cookware Pro 959,14330.37
+PROD-0442,Clothing,Men,Men Elite 997,2074.49
+PROD-0443,Sports,Outdoor Gear,Outdoor Gear Plus 138,11131.85
+PROD-0444,Electronics,Headphones,Headphone Lite 669,77373.42
+PROD-0445,Furniture,Chairs,Chair Elite 602,7344.92
+PROD-0446,Furniture,Bookcases,Bookcase Elite 956,33589.45
+PROD-0447,Clothing,Footwear,Footwear Max 139,2089.66
+PROD-0448,Office Supplies,Paper,Paper Elite 565,2880.2
+PROD-0449,Furniture,Storage,Storage Prime 641,24485.57
+PROD-0450,Home & Kitchen,Appliances,Appliance Max 361,2009.28
+PROD-0451,Electronics,Mobiles,Mobile Pro 570,15743.29
+PROD-0452,Home & Kitchen,Cookware,Cookware Smart 776,4006.77
+PROD-0453,Home & Kitchen,Cookware,Cookware Max 771,1606.46
+PROD-0454,Electronics,Headphones,Headphone Elite 377,42648.13
+PROD-0455,Sports,Outdoor Gear,Outdoor Gear Classic 652,12706.95
+PROD-0456,Office Supplies,Pens,Pen Prime 706,112.8
+PROD-0457,Furniture,Tables,Table Elite 743,21399.16
+PROD-0458,Sports,Outdoor Gear,Outdoor Gear Eco 868,14639.92
+PROD-0459,Clothing,Footwear,Footwear Eco 185,4217.25
+PROD-0460,Electronics,Accessories,Accessorie Eco 833,56269.86
+PROD-0461,Sports,Fitness Equipment,Fitness Equipment Prime 641,5862.38
+PROD-0462,Sports,Outdoor Gear,Outdoor Gear Classic 266,4579.08
+PROD-0463,Electronics,Accessories,Accessorie Pro 395,29449.75
+PROD-0464,Furniture,Tables,Table Ultra 998,10487.07
+PROD-0465,Clothing,Women,Women Pro 906,2476.14
+PROD-0466,Electronics,Mobiles,Mobile Pro 257,36249.47
+PROD-0467,Office Supplies,Pens,Pen Classic 368,1367.68
+PROD-0468,Furniture,Storage,Storage Ultra 908,32360.24
+PROD-0469,Office Supplies,Binders,Binder Smart 242,1057.42
+PROD-0470,Electronics,Cameras,Camera Lite 939,88779.39
+PROD-0471,Furniture,Chairs,Chair Plus 962,36642.9
+PROD-0472,Home & Kitchen,Appliances,Appliance Max 586,12062.31
+PROD-0473,Furniture,Storage,Storage Plus 801,12071.0
+PROD-0474,Electronics,Accessories,Accessorie Pro 901,85220.47
+PROD-0475,Clothing,Men,Men Smart 807,2722.96
+PROD-0476,Office Supplies,Paper,Paper Max 270,2326.73
+PROD-0477,Home & Kitchen,Cookware,Cookware Ultra 411,10590.9
+PROD-0478,Furniture,Chairs,Chair Elite 426,31046.13
+PROD-0479,Office Supplies,Storage & Organization,Storage & Organization Lite 194,344.77
+PROD-0480,Office Supplies,Paper,Paper Elite 628,361.82
+PROD-0481,Home & Kitchen,Cookware,Cookware Prime 525,13524.45
+PROD-0482,Furniture,Bookcases,Bookcase Lite 187,15821.57
+PROD-0483,Office Supplies,Storage & Organization,Storage & Organization Plus 947,1977.69
+PROD-0484,Electronics,Mobiles,Mobile Pro 562,69187.42
+PROD-0485,Office Supplies,Storage & Organization,Storage & Organization Smart 760,1327.77
+PROD-0486,Office Supplies,Pens,Pen Max 397,1444.34
+PROD-0487,Furniture,Bookcases,Bookcase Eco 960,14815.75
+PROD-0488,Home & Kitchen,Decor,Decor Plus 751,7105.88
+PROD-0489,Furniture,Bookcases,Bookcase Lite 425,21320.23
+PROD-0490,Office Supplies,Storage & Organization,Storage & Organization Prime 930,2272.52
+PROD-0491,Sports,Team Sports,Team Sport Classic 190,7944.18
+PROD-0492,Office Supplies,Paper,Paper Plus 842,525.2
+PROD-0493,Sports,Team Sports,Team Sport Plus 772,9764.3
+PROD-0494,Electronics,Mobiles,Mobile Ultra 792,65618.04
+PROD-0495,Home & Kitchen,Decor,Decor Pro 795,6710.45
+PROD-0496,Sports,Fitness Equipment,Fitness Equipment Classic 759,19913.18
+PROD-0497,Electronics,Accessories,Accessorie Eco 489,65962.96
+PROD-0498,Sports,Team Sports,Team Sport Plus 244,4704.86
+PROD-0499,Sports,Outdoor Gear,Outdoor Gear Prime 603,3273.66
+PROD-0500,Sports,Team Sports,Team Sport Elite 177,14129.76
